@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.support.android.designlibdemo;
+package com.cloncha.student.app;
 
 import android.os.Build;
 import android.os.Bundle;
